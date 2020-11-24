@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on a hundred days coding challenge!
+🔭 I’m currently working on building engineering communities.
