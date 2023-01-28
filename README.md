@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently learning frontend and working on a supplier application
+🔭 I'm a frontend staff engineer looking for work!
