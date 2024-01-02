@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I'm a frontend staff engineer looking for work!
+🔭 I'm a staff engineer with mostly frontend experience
